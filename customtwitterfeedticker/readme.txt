@@ -1,7 +1,7 @@
 === Custom Twitter Feed Ticker ===
 Contributors: Surbhit Dubey
 Tags: Plugin handles twitter feeds, using @username
-License: GPLv2
+CTFT_License: GPLv2
 Requires at least: 3.2
 Tested up to: 4.5.2
 Stable tag: 1.0.0
